@@ -39,7 +39,9 @@ print(f'urutan: {pertama}, {kedua}, {ketiga}')
 
 ### Latihan3
 #### Program dan Output
+
 - Program perulangan bertingkat
+
 ![Gambar5](screenshots/ss5.jpg)
 ![Gambar6](screenshots/ss6.jpg)
 
