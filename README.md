@@ -1,5 +1,4 @@
 # labspy01
-## Lab 2
 
 ### Latihan1
 #### Program dan Output
