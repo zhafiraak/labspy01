@@ -21,7 +21,7 @@ elif b > a:
 
 ### Latihan2
 #### Program dan Output
-- Program mengurutkan data berdasarkan input jumlah data serta menentukan urutan dari data terkecil
+- Program mengurutkan data berdasarkan input jumlah data, serta menentukan urutan dari data terkecil
 
 ![Gambar3](screenshots/ss3.jpg)
 ![Gambar4](screenshots/ss4.jpg)
@@ -54,11 +54,12 @@ for i in range(0, 10):
 
 ### Latihan4
 #### Program dan Output
-- Tampilkan n bilangan acak yang lebih kecil dari 0.5
-- Nilai n diisi pada saat runtime
-- Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
+- Tampilkan bilangan acak N yang lebih kecil dari 0.5
+- Nilai N diisi pada saat runtime
 
-![Gambar4](ssLab3/sslat2.png)
+
+![Gambar7](screenshots/ss7.jpg)
+![Gambar8](screenshots/ss8.jpg)
 ```bash
 from random import random
 n = int(input("Masukan Nilai N: "))
