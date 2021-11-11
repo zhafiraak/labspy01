@@ -3,6 +3,7 @@
 ### Latihan1
 #### Program dan Output
 - Program sederhana dengan input 2 buah bilangan serta menentukan bilangan terbesar dari kedua bilangan
+
 ![Gambar1](screenshots/ss1.jpg)
 ![Gambar2](screenshots/ss2.jpg)
 
